@@ -24,11 +24,13 @@ Add an awesome badge to the top of your list, right next to the title. [Example]
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ```
 
+You are allowed to use the badge on lists not included here and also on private lists.
+
 *The badges should not be modified in any way.*
 
 ## Awesome mentioned badge
 
-This badge is for projects being mentioned in an Awesome list (**NOT for use in Awesome lists**). For example, the [Chalk](https://github.com/chalk/chalk) project could feature this badge because it's listed in [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs). It's totally optional for projects, but it's a nice way to show they've been featured in an Awesome list. You can choose either the regular badge or the flat one.
+This badge is intended for projects featured in an Awesome list (**not for Awesome lists themselves**). For example, the [Chalk](https://github.com/chalk/chalk) project could feature this badge because it's listed in [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs). It's totally optional for projects, but it's a nice way to show they've been featured in an Awesome list. You can choose either the regular badge or the flat one.
 
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge-flat.svg)](https://awesome.re)
@@ -80,4 +82,4 @@ Create a [table of contents](https://github.com/sindresorhus/stuff/blob/main/toc
 
 ## Accept other people's opinion
 
-If you're an owner of the list, respect other people's opinion. If there are plenty of users not agreeing to your decision, give it a second thought.
+If you're an owner of the list, respect other people's opinions. If there are plenty of users not agreeing with your decision, give it a second thought.
